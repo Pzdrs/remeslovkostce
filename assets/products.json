@@ -1,0 +1,217 @@
+{
+  "poznamkove_blocky": {
+    "display_name": "Poznámkmové bločky",
+    "description": "Krychlové a spirálové lepené poznámkové bločky",
+    "options": {
+      "kostka_1": {
+        "display_name": "Bílá kostka, malá",
+        "properties": {
+          "Barva": "Bílá",
+          "Rozměry": "?x?x?"
+        }
+      },
+      "kostka_2": {
+        "display_name": "Bílá kostka, velká",
+        "properties": {
+          "Barva": "Bílá",
+          "Rozměry": "?x?x?"
+        }
+      },
+      "kostka_3": {
+        "display_name": "Barevná kostka, velká",
+        "properties": {
+          "Barva": "Barevná",
+          "Rozměry": "?x?x?"
+        }
+      },
+      "vrtule_1": {
+        "display_name": "Bílá vrtule, malá",
+        "properties": {
+          "Barva": "Bílá",
+          "Rozměry": "?x?x?"
+        }
+      },
+      "vrtule_2": {
+        "display_name": "Barevná vrtule, malá",
+        "properties": {
+          "Barva": "Barevná",
+          "Rozměry": "?x?x?"
+        }
+      },
+      "vrtule_3": {
+        "display_name": "Barevná vrtule, velká",
+        "properties": {
+          "Barva": "Barevná",
+          "Rozměry": "?x?x?"
+        }
+      }
+    }
+  },
+  "bloky_flip-chart": {
+    "display_name": "Bloky Flip-Chart",
+    "description": "Archy velkoformátového papíru",
+    "options": {
+      "blok_1": {
+        "display_name": "Bílý blok Flip-Chart, 25 listů",
+        "properties": {
+          "Barva": "Bílá",
+          "Perforace": "Ne",
+          "Počet listů": 25,
+          "Rozměry": "?x?x?"
+        }
+      },
+      "blok_2": {
+        "display_name": "Bílý blok Flip-Chart, 40 listů",
+        "properties": {
+          "Barva": "Bílá",
+          "Perforace": "Ne",
+          "Počet listů": 40,
+          "Rozměry": "?x?x?"
+        }
+      },
+      "blok_3": {
+        "display_name": "Čtverečkovaný blok Flip-Chart, 25 listů",
+        "properties": {
+          "Barva": "Bílá (Čtverečkovaný)",
+          "Perforace": "Ne",
+          "Počet listů": 25,
+          "Rozměry": "?x?x?"
+        }
+      },
+      "blok_4": {
+        "display_name": "Čtverečkovaný blok Flip-Chart, 40 listů",
+        "properties": {
+          "Barva": "Bílá (Čtverečkovaný)",
+          "Perforace": "Ne",
+          "Počet listů": 40,
+          "Rozměry": "?x?x?"
+        }
+      },
+      "blok_5": {
+        "display_name": "Bílý blok Flip-Chart, 20 listů, perforovaný",
+        "properties": {
+          "Barva": "Bílá",
+          "Perforace": "Ano",
+          "Počet listů": 20,
+          "Rozměry": "?x?x?"
+        }
+      }
+    }
+  },
+  "naplnene_boxy": {
+    "display_name": "Boxy s náplní",
+    "description": "Plastové boxy naplňené poznámkovými papírky",
+    "options": {
+      "box_1": {
+        "display_name": "Lepenkový box s bílou náplní, malý",
+        "properties": {
+          "Materiál": "Lepenka",
+          "Barva náplně": "Bílá",
+          "Rozměry": "?x?x?"
+        }
+      },
+      "box_2": {
+        "display_name": "Čirý box s bílou náplní, malý",
+        "properties": {
+          "Materiál": "Plast",
+          "Barva náplně": "Bílá",
+          "Rozměry": "?x?x?"
+        }
+      },
+      "box_3": {
+        "display_name": "Čirý box s barevnou náplní, malý",
+        "properties": {
+          "Materiál": "Plast",
+          "Barva náplně": "Barevná",
+          "Rozměry": "?x?x?"
+        }
+      },
+      "box_4": {
+        "display_name": "Čirý box s barevnou náplní, velký",
+        "properties": {
+          "Materiál": "Plast",
+          "Barva náplně": "Barevná",
+          "Rozměry": "?x?x?"
+        }
+      },
+      "box_5": {
+        "display_name": "Kouřový box s bílou náplní, malý",
+        "properties": {
+          "Materiál": "Plast",
+          "Barva náplně": "Bílá",
+          "Rozměry": "?x?x?"
+        }
+      },
+      "box_6": {
+        "display_name": "Modrý box s bílou náplní, malý",
+        "properties": {
+          "Materiál": "Plast",
+          "Barva náplně": "Bílá",
+          "Rozměry": "?x?x?"
+        }
+      },
+      "box_7": {
+        "display_name": "Černý box s bílou náplní, malý",
+        "properties": {
+          "Materiál": "Plast",
+          "Barva náplně": "Bílá",
+          "Rozměry": "?x?x?"
+        }
+      }
+    }
+  },
+  "naplne_do_boxu": {
+    "display_name": "Náplně do boxů",
+    "description": "Náplňe do plastových boxů",
+    "options": {
+      "napln_1": {
+        "display_name": "Bílá náplň do boxu, malá",
+        "properties": {
+          "Barva": "Bílá",
+          "Rozměry": "?x?x?"
+        }
+      },
+      "napln_2": {
+        "display_name": "Bílá náplň do boxu, velká",
+        "properties": {
+          "Barva": "Bílá",
+          "Rozměry": "?x?x?"
+        }
+      },
+      "napln_3": {
+        "display_name": "Bílá náplň do boxu, malá",
+        "properties": {
+          "Barva": "Bílá",
+          "Rozměry": "?x?x?"
+        }
+      },
+      "napln_4": {
+        "display_name": "Barevná náplň do boxu, malá",
+        "properties": {
+          "Barva": "Barevná",
+          "Rozměry": "?x?x?"
+        }
+      },
+      "napln_5": {
+        "display_name": "Barevná náplň do boxu, velká",
+        "properties": {
+          "Barva": "Barevná",
+          "Rozměry": "?x?x?"
+        }
+      }
+    }
+  },
+  "ostatni_produkty": {
+    "display_name": "Ostatní produkty",
+    "description": "Nezařazené produkty, speciální výroba",
+    "options": {
+      "karton_krida_1": {
+        "display_name": "Karton křída, 100 listů, A4",
+        "properties": {
+          "Počet listů": 100,
+          "Rozměry": "?x?x?"
+        }
+      }
+    }
+  }
+}
